@@ -1,5 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Princess+Sofia);
 
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 16px;
+    font-family: 'Princess Sofia', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    background-color: #F5F5DC;
+}
+
+.poster {
+    float: left;
+    margin-right: 1rem;
 }
